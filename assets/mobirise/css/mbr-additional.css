@@ -629,7 +629,8 @@ a:hover,
 }
 
 #contacts1-2h P {
-  text-align: left;
+  text-align: center;
+  color: #204187;
 }
 #menu2-2f .hide-buttons .nav-btn {
   display: none !important;

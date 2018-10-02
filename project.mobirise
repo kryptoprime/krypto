@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Kryptov3",
-    "currentPage": "tnc.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "spacem",
       "title": "SpaceM",
@@ -140,7 +140,7 @@
             }
           },
           "icons": "<a data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-linkedin-square mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-twitter-square mbr-iconfont mbr-iconfont-btn\"></span></a>  ",
-          "contacts": "<a data-app-btn=\"true\" href=\"tel:+123 (456) 7890 123\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span> +123 (456) 7890 123</a><a data-app-btn=\"true\" href=\"mailto:sample@sample.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span> info@kryptoprime.com</a>",
+          "contacts": "<a data-app-btn=\"true\" href=\"tel:+123 (456) 7890 123\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span> +46 72 018 0690</a><a data-app-btn=\"true\" href=\"mailto:sample@sample.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span> info@kryptoprime.com</a>",
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "alias": "spacem/components",
           "_tags": [
@@ -231,42 +231,50 @@
           },
           "media1": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont",
+              "linkInNewWindow": false,
               "name": "target",
-              "link": "https://mobirise.com",
+              "family": "et-line",
+              "active": true,
+              "link": "product.html#slider5-10",
               "size": 0,
-              "family": "et-line"
+              "newWindow": true
             }
           },
           "media2": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont",
+              "linkInNewWindow": false,
               "name": "telescope",
-              "link": "https://mobirise.com",
+              "family": "et-line",
+              "active": true,
+              "link": "product.html#slider5-10",
               "size": 0,
-              "family": "et-line"
+              "newWindow": false
             }
           },
           "media3": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont",
+              "linkInNewWindow": false,
               "name": "strategy",
-              "link": "https://mobirise.com",
+              "family": "et-line",
+              "active": true,
+              "link": "product.html#slider5-10",
               "size": 0,
-              "family": "et-line"
+              "newWindow": false
             }
           },
           "media4": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont",
+              "linkInNewWindow": false,
               "name": "trophy",
-              "link": "https://mobirise.com",
+              "family": "et-line",
+              "active": true,
+              "link": "product.html#slider5-10",
               "size": 0,
-              "family": "et-line"
+              "newWindow": false
             }
           },
           "media5": {
@@ -422,7 +430,7 @@
           "title": "<em>Title</em> with Text and Buttons",
           "subtitle": "Subtitle",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quis quidem laboriosam, enim rem nobis ab laudantium. Aliquam, ipsum, impedit accusantium ex cum facilis ut tempora vero nesciunt mollitia ullam, quisquam quia cupiditate esse repudiandae. Vero nisi velit sint minima et adipisci culpa iusto ea obcaecati! Voluptatibus consectetur nulla, asperiores.",
-          "buttons": " <a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-black\" role=\"button\"><span class=\"mbri-close mbr-iconfont mbr-iconfont-btn\"></span>Lets Get Started</a> ",
+          "buttons": " <a data-app-btn=\"true\" href=\"https://www.kryptoprime.com\" class=\"btn btn-secondary\" role=\"button\" target=\"_blank\"><span class=\"mbri-close mbr-iconfont mbr-iconfont-btn\"></span>Lets Get Started</a> ",
           "alias": "spacem/components",
           "_tags": [
             "Theme"
@@ -560,14 +568,14 @@
               "loop": false
             }
           },
-          "title": "Do you have any questions?",
-          "text": "Should you need more information, do not hesitate to contact us.<br>",
+          "title": "Do you have any <i style=\"font-weight: normal;\">questions</i>?",
+          "text": "Should you need more information,<br>please do not hesitate to contact us.<br>",
           "title1": "<span class=\"etl-icon icon-map-pin mbr-iconfont mbr-iconfont-btn\"></span>address",
           "title2": "<span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\"></span>e-mail",
           "title3": "<span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>phone",
           "text1": "Lindstedtsvägen 24, 114 28 Stockholm, Sweden",
           "text2": "<a href=\"mailto:sample@sample.com\">info@kryptoprime.com</a>",
-          "text3": "<a href=\"tel:+138 (095) 6526 538\">+138 (095) 6526 538</a>",
+          "text3": "<a href=\"tel:+138 (095) 6526 538\">+46 72 0</a>18 0690",
           "form": {
             "title": "MESSAGE",
             "action": "info@kryptoprime.com",
@@ -596,7 +604,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-black\" type=\"submit\" role=\"button\">contact us</a>",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-black\" type=\"submit\" role=\"button\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove\">contact us</a>",
           "alias": "spacem/components",
           "_tags": [
             "Theme"
@@ -605,7 +613,8 @@
           "_anchor": "contacts1-2h",
           "_styles": {
             "P": {
-              "text-align": "left"
+              "text-align": "center",
+              "color": "#204187"
             }
           }
         },
@@ -697,7 +706,7 @@
             }
           },
           "icons": "<a data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-linkedin-square mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-twitter-square mbr-iconfont mbr-iconfont-btn\"></span></a>  ",
-          "contacts": "<a data-app-btn=\"true\" href=\"tel:+123 (456) 7890 123\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span> +123 (456) 7890 123</a><a data-app-btn=\"true\" href=\"mailto:sample@sample.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span> info@kryptoprime.com</a>",
+          "contacts": "<a data-app-btn=\"true\" href=\"tel:+123 (456) 7890 123\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span> +46 72 018 0690</a><a data-app-btn=\"true\" href=\"mailto:sample@sample.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span> info@kryptoprime.com</a>",
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "alias": "spacem/components",
           "_tags": [
@@ -1003,7 +1012,7 @@
             }
           },
           "icons": "<a data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-linkedin-square mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-twitter-square mbr-iconfont mbr-iconfont-btn\"></span></a>  ",
-          "contacts": "<a data-app-btn=\"true\" href=\"tel:+123 (456) 7890 123\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span> +123 (456) 7890 123</a><a data-app-btn=\"true\" href=\"mailto:sample@sample.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span> info@kryptoprime.com</a>",
+          "contacts": "<a data-app-btn=\"true\" href=\"tel:+123 (456) 7890 123\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span> +46 72 018 0690</a><a data-app-btn=\"true\" href=\"mailto:sample@sample.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span> info@kryptoprime.com</a>",
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "alias": "spacem/components",
           "_tags": [
@@ -1380,7 +1389,7 @@
             }
           },
           "icons": "<a data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-linkedin-square mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-twitter-square mbr-iconfont mbr-iconfont-btn\"></span></a>  ",
-          "contacts": "<a data-app-btn=\"true\" href=\"tel:+123 (456) 7890 123\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span> +123 (456) 7890 123</a><a data-app-btn=\"true\" href=\"mailto:sample@sample.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span> info@kryptoprime.com</a>",
+          "contacts": "<a data-app-btn=\"true\" href=\"tel:+123 (456) 7890 123\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span> +46 72 018 0690</a><a data-app-btn=\"true\" href=\"mailto:sample@sample.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span> info@kryptoprime.com</a>",
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "alias": "spacem/components",
           "_tags": [
@@ -1488,18 +1497,18 @@
             "showBullets": false,
             "bgColor": "#fff",
             "timeout": 5,
-            "imageSize": "13",
+            "imageSize": "43",
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
                 "active": true,
-                "innerImage": "@PROJECT_PATH@/assets/images/kryptoprime-white-font-2000x1409.png",
+                "innerImage": "@PROJECT_PATH@/assets/images/purple-2000x1215.png",
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
-                "title": "<span style=\"font-size: 100px;\"><b>Stunning&nbsp;</b></span><span style=\"font-size: 100px;\"><i>All-in-One </i><b>Platform</b></span>",
+                "title": "<span style=\"font-size: 100px;\"><b>Stunning</b></span><span style=\"font-size: 100px;\"><b><br></b></span><span style=\"font-size: 100px;\"><i>All-in-One</i></span><span style=\"font-size: 100px;\"><i><br></i><b>Platform</b></span>",
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas fugiat ullam iusto accusamus fugit, blanditiis sapiente odio illum dicta eius. Ullam eveniet provident possimus quidem.",
@@ -1601,7 +1610,7 @@
               "name": "medal-3",
               "family": "icon54",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0
             }
           },
@@ -1612,7 +1621,7 @@
               "name": "dodekaeder-3",
               "family": "icon54-v2",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0
             }
           },
@@ -1623,7 +1632,7 @@
               "name": "detailes-pane",
               "family": "icon54-v2",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0
             }
           },
@@ -1772,7 +1781,7 @@
             }
           },
           "icons": "<a data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-linkedin-square mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-twitter-square mbr-iconfont mbr-iconfont-btn\"></span></a>  ",
-          "contacts": "<a data-app-btn=\"true\" href=\"tel:+123 (456) 7890 123\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span> +123 (456) 7890 123</a><a data-app-btn=\"true\" href=\"mailto:sample@sample.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span> info@kryptoprime.com</a>",
+          "contacts": "<a data-app-btn=\"true\" href=\"tel:+123 (456) 7890 123\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span> +46 72 018 0690</a><a data-app-btn=\"true\" href=\"mailto:sample@sample.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span> info@kryptoprime.com</a>",
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "alias": "spacem/components",
           "_tags": [
@@ -1823,7 +1832,7 @@
               "name": "user-fingerprint",
               "family": "icon54-v2",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0
             }
           },
@@ -1834,18 +1843,19 @@
               "name": "key-tag-settings",
               "family": "icon54-v3",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0
             }
           },
           "media3": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont",
+              "linkInNewWindow": false,
               "name": "strategy",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": 0
             }
           },
           "media4": {
@@ -1855,7 +1865,7 @@
               "name": "global-box",
               "family": "icon54-v3",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0
             }
           },
@@ -1866,7 +1876,7 @@
               "name": "check-file",
               "family": "icon54",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0
             }
           },
@@ -1877,7 +1887,7 @@
               "name": "mixer-1",
               "family": "icon54",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0
             }
           },
@@ -2014,7 +2024,7 @@
           "title": "<em>Title</em> with Text and Buttons",
           "subtitle": "Subtitle",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quis quidem laboriosam, enim rem nobis ab laudantium. Aliquam, ipsum, impedit accusantium ex cum facilis ut tempora vero nesciunt mollitia ullam, quisquam quia cupiditate esse repudiandae. Vero nisi velit sint minima et adipisci culpa iusto ea obcaecati! Voluptatibus consectetur nulla, asperiores.",
-          "buttons": " <a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-black\" role=\"button\"><span class=\"mbri-close mbr-iconfont mbr-iconfont-btn\"></span>Lets Get Started</a>",
+          "buttons": " <a data-app-btn=\"true\" href=\"https://www.kryptoprime.com\" class=\"btn btn-secondary\" role=\"button\" target=\"_blank\"><span class=\"mbri-close mbr-iconfont mbr-iconfont-btn\"></span>Lets Get Started</a>",
           "alias": "spacem/components",
           "_tags": [
             "Theme"
@@ -2246,7 +2256,7 @@
             }
           },
           "icons": "<a data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-linkedin-square mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-twitter-square mbr-iconfont mbr-iconfont-btn\"></span></a>  ",
-          "contacts": "<a data-app-btn=\"true\" href=\"tel:+123 (456) 7890 123\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span> +123 (456) 7890 123</a><a data-app-btn=\"true\" href=\"mailto:sample@sample.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span> info@kryptoprime.com</a>",
+          "contacts": "<a data-app-btn=\"true\" href=\"tel:+123 (456) 7890 123\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span> +46 72 018 0690</a><a data-app-btn=\"true\" href=\"mailto:sample@sample.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span> info@kryptoprime.com</a>",
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "alias": "spacem/components",
           "_tags": [
@@ -2258,7 +2268,7 @@
         {
           "_params": {
             "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingBottom": "1",
             "showTitle": true,
             "showSubtitle": false,
             "showText": false,
@@ -2294,22 +2304,24 @@
           },
           "media1": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont",
+              "linkInNewWindow": false,
               "name": "target",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": 0
             }
           },
           "media2": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont",
+              "linkInNewWindow": false,
               "name": "telescope",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": 0
             }
           },
           "media3": {
@@ -2376,7 +2388,7 @@
         },
         {
           "_params": {
-            "paddingTop": 2,
+            "paddingTop": "0",
             "paddingBottom": 1,
             "showTitle": true,
             "showText": true,
@@ -2388,7 +2400,7 @@
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
-            "bgColor": "#e5e5e5",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2407,9 +2419,9 @@
           "title2": "well quality management",
           "title3": "cooperative work",
           "title4": "brainstorming",
-          "titleL1": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseOne\" aria-expanded=\"true\" aria-controls=\"collapseOne\">Our Story<br><span></span></a>",
+          "titleL1": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseOne\" aria-expanded=\"true\" aria-controls=\"collapseOne\" class=\"text-black\">Our Story<br><span></span></a>",
           "textL1": "<p>Kryptoprime inception was on early 2015 when the idea of better security and privacy solutions to protect digital assets without compromising simplicity ignited.<br><span style=\"background-color: inherit;\"><br><b>Why is it so important to us?</b>&nbsp;</span></p><p>Almost everyone of us use multiple email providers like gmail, yahoo, outlook and storage providers like google drive, dropbox, onedrive every single day. It can be personal or it can be work related and many number of times we would jump from one provider to next, to check mail, and share documents, and sometimes losing information, loosing passwords, losing accounts, in the end we are loosing our productivity. In this chaos only few of us would ever think about security or privacy of the information.<br><span style=\"background-color: inherit;\"><br>If you look at recent security incidents, not only your private information but also your corporate information, you communicate through these providers are not secure at all. And that's one of the main reasons EU came up with the GDPR. GDPR, General data protection regulation which comes to force next year, if breached companies can be fined up to 4% of the annual turnover or 20 million euros.&nbsp;<br></span><span style=\"background-color: inherit;\"><br>Kryptoprime manage to integrate all of our cloud service providers into a one strong encrypted cloud platform. Imagine where you would never have to be in five places at the same time, where you never have to install or update applications or plugins. We are empowering you with effortless access to all of your email and documents with strong encryption as a more unified solution.</span></p>",
-          "titleL2": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseTwo\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">Our mission<br><span></span></a>",
+          "titleL2": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseTwo\" aria-expanded=\"false\" aria-controls=\"collapseTwo\" class=\"text-black\">Our mission<br><span></span></a>",
           "textL2": "<p>To give people peace of mind while using cloud communication and preserve user's privacy without compromising simplicity of uses.</p>",
           "titleL3": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseThree\" aria-expanded=\"false\" aria-controls=\"collapseThree\">Our Vision<br><span></span></a>",
           "textL3": "<p>To be global leader to liberate people's online security and privacy.</p>",
@@ -2468,7 +2480,7 @@
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#e5e5e5",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2502,7 +2514,7 @@
             "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#e5e5e5",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2513,7 +2525,7 @@
             "visibleSlides": "2",
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/logo-4.png",
@@ -2525,7 +2537,7 @@
                 }
               },
               {
-                "active": true,
+                "active": false,
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/logo-5.png",
@@ -2797,7 +2809,7 @@
             }
           },
           "icons": "<a data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-linkedin-square mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-twitter-square mbr-iconfont mbr-iconfont-btn\"></span></a>  ",
-          "contacts": "<a data-app-btn=\"true\" href=\"tel:+123 (456) 7890 123\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span> +123 (456) 7890 123</a><a data-app-btn=\"true\" href=\"mailto:sample@sample.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span> info@kryptoprime.com</a>",
+          "contacts": "<a data-app-btn=\"true\" href=\"tel:+123 (456) 7890 123\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span> +46 72 018 0690</a><a data-app-btn=\"true\" href=\"mailto:sample@sample.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span> info@kryptoprime.com</a>",
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "alias": "spacem/components",
           "_tags": [
