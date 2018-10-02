@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Kryptov3",
-    "currentPage": "index.html",
+    "currentPage": "product.html",
     "theme": {
       "name": "spacem",
       "title": "SpaceM",
@@ -37,7 +37,7 @@
     "google-analytics": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
-    "uniqCompNum": 95,
+    "uniqCompNum": 96,
     "versionPublish": "4.8.3",
     "screenshot": "screenshot.png"
   },
@@ -327,7 +327,7 @@
         {
           "_params": {
             "paddingTop": 0,
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "showTitle": true,
             "showSeparator": true,
             "showSubtitle": false,
@@ -356,6 +356,39 @@
           ],
           "_name": "title4",
           "_anchor": "title4-7"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showTitle": false,
+            "showSeparator": false,
+            "showSubtitle": false,
+            "showText": false,
+            "showButtons": true,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "title": "<em>Title</em> with Text and Buttons",
+          "subtitle": "Subtitle",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quis quidem laboriosam, enim rem nobis ab laudantium. Aliquam, ipsum, impedit accusantium ex cum facilis ut tempora vero nesciunt mollitia ullam, quisquam quia cupiditate esse repudiandae. Vero nisi velit sint minima et adipisci culpa iusto ea obcaecati! Voluptatibus consectetur nulla, asperiores.",
+          "buttons": "  <a data-app-btn=\"true\" href=\"https://www.kryptoprime.com\" class=\"btn btn-black\" role=\"button\" target=\"_blank\"><span class=\"icon54-v1-double-click2 mbr-iconfont mbr-iconfont-btn\"></span>Lets Get Started</a> ",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "title3",
+          "_anchor": "title3-8"
         },
         {
           "_params": {
@@ -404,39 +437,6 @@
           ],
           "_name": "content6",
           "_anchor": "content6-6"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "showTitle": false,
-            "showSeparator": false,
-            "showSubtitle": false,
-            "showText": false,
-            "showButtons": true,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.75
-          },
-          "title": "<em>Title</em> with Text and Buttons",
-          "subtitle": "Subtitle",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quis quidem laboriosam, enim rem nobis ab laudantium. Aliquam, ipsum, impedit accusantium ex cum facilis ut tempora vero nesciunt mollitia ullam, quisquam quia cupiditate esse repudiandae. Vero nisi velit sint minima et adipisci culpa iusto ea obcaecati! Voluptatibus consectetur nulla, asperiores.",
-          "buttons": "  <a data-app-btn=\"true\" href=\"https://www.kryptoprime.com\" class=\"btn btn-secondary\" role=\"button\" target=\"_blank\"><span class=\"mbri-close mbr-iconfont mbr-iconfont-btn\"></span>Lets Get Started</a> ",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "title3",
-          "_anchor": "title3-8"
         },
         {
           "_params": {
@@ -1921,6 +1921,39 @@
         {
           "_params": {
             "paddingTop": "0",
+            "paddingBottom": 2,
+            "showTitle": false,
+            "showSeparator": false,
+            "showSubtitle": false,
+            "showText": false,
+            "showButtons": true,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "title": "<em>Title</em> with Text and Buttons",
+          "subtitle": "Subtitle",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quis quidem laboriosam, enim rem nobis ab laudantium. Aliquam, ipsum, impedit accusantium ex cum facilis ut tempora vero nesciunt mollitia ullam, quisquam quia cupiditate esse repudiandae. Vero nisi velit sint minima et adipisci culpa iusto ea obcaecati! Voluptatibus consectetur nulla, asperiores.",
+          "buttons": " <a data-app-btn=\"true\" href=\"https://www.kryptoprime.com\" class=\"btn btn-black\" role=\"button\" target=\"_blank\"><span class=\"icon54-v1-double-click2 mbr-iconfont mbr-iconfont-btn\"></span>Lets Get Started</a>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "title3",
+          "_anchor": "title3-1j"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
             "paddingBottom": "1",
             "showTitle": true,
             "showSeparator": true,
@@ -2024,13 +2057,13 @@
           "title": "<em>Title</em> with Text and Buttons",
           "subtitle": "Subtitle",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quis quidem laboriosam, enim rem nobis ab laudantium. Aliquam, ipsum, impedit accusantium ex cum facilis ut tempora vero nesciunt mollitia ullam, quisquam quia cupiditate esse repudiandae. Vero nisi velit sint minima et adipisci culpa iusto ea obcaecati! Voluptatibus consectetur nulla, asperiores.",
-          "buttons": " <a data-app-btn=\"true\" href=\"https://www.kryptoprime.com\" class=\"btn btn-secondary\" role=\"button\" target=\"_blank\"><span class=\"mbri-close mbr-iconfont mbr-iconfont-btn\"></span>Lets Get Started</a>",
+          "buttons": "<a data-app-btn=\"true\" href=\"https://www.kryptoprime.com\" class=\"btn btn-black\" role=\"button\" target=\"_blank\"><span class=\"icon54-v1-double-click2 mbr-iconfont mbr-iconfont-btn\"></span>Lets get started</a>",
           "alias": "spacem/components",
           "_tags": [
             "Theme"
           ],
           "_name": "title3",
-          "_anchor": "title3-1j"
+          "_anchor": "title3-2n"
         },
         {
           "_params": {
