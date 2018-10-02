@@ -6,7 +6,6 @@
 
 
 
-
 /*TITLE*/
 .alert,
 h1,
@@ -621,8 +620,11 @@ a:hover,
 #menu2-0 .dropdown-item[aria-expanded="true"] {
   color: #222!important;
 }
-#slider3-1 H1 {
-  font-family: 'Oxygen', sans-serif;
+#header1-2t H1 {
+  text-align: left;
+}
+#header1-2t P {
+  text-align: left;
 }
 #content1-4 H1 {
   color: #000000;
@@ -872,6 +874,9 @@ a:hover,
 #header3-2o DIV {
   font-size: 100px;
 }
+#header3-2o H1 {
+  font-size: 100px;
+}
 #content2-1f H4 {
   text-align: left;
 }
@@ -955,10 +960,7 @@ a:hover,
   text-align: left;
 }
 
-#slider5-r B {
-  font-size: 100px;
-}
-#slider5-r I {
+#header3-2s H1 {
   font-size: 100px;
 }
 #menu2-b .hide-buttons .nav-btn {
