@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Kryptov3",
-    "currentPage": "about.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "spacem",
       "title": "SpaceM",
@@ -2608,11 +2608,12 @@
                 "active": true,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/logo-4.png",
-                    "link": "https://mobirise.com",
+                    "src": "@PROJECT_PATH@/assets/images/kthbw-1-92x90.png",
+                    "link": "https://www.kth.se",
                     "active": true,
                     "alt": "",
-                    "title": "sfasf"
+                    "title": "sfasf",
+                    "linkInNewWindow": true
                   }
                 }
               },
@@ -2620,9 +2621,11 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/logo-5.png",
-                    "link": "https://mobirise.com",
-                    "active": true
+                    "src": "@PROJECT_PATH@/assets/images/stingbw2-92x90.png",
+                    "link": "https://sting.co",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
                   }
                 }
               }
