@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Kryptov3",
-    "currentPage": "services.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "spacem",
       "title": "SpaceM",
@@ -37,7 +37,7 @@
     "google-analytics": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
-    "uniqCompNum": 102,
+    "uniqCompNum": 106,
     "versionPublish": "4.8.3",
     "screenshot": "screenshot.png"
   },
@@ -254,8 +254,8 @@
             "iconFont": {
               "class": "mbr-iconfont",
               "linkInNewWindow": false,
-              "name": "telescope",
-              "family": "et-line",
+              "name": "lock-user1",
+              "family": "icon54",
               "active": true,
               "link": "product.html#slider5-10",
               "size": 0,
@@ -278,8 +278,8 @@
             "iconFont": {
               "class": "mbr-iconfont",
               "linkInNewWindow": false,
-              "name": "trophy",
-              "family": "et-line",
+              "name": "global",
+              "family": "icon54-v2",
               "active": true,
               "link": "product.html#slider5-10",
               "size": 0,
@@ -316,9 +316,9 @@
           "title5": "innovation ideas",
           "title6": "business analysis",
           "text1": "Now with Blockchain, no more need to have trust in third parties. Replace trust with hash proof.<br>",
-          "text2": "We use cryptographic algorithms to <br>",
+          "text2": "“They who can give up essential liberty to obtain a little temporary safety deserve neither liberty nor safety.” <br>― Benjamin Franklin<br>",
           "text3": "Now with Blockchain, no more need to have trust in third parties. Replace trust with cryptographic function (hash) proof.<br>",
-          "text4": "Authenticity of your profile will never be tempered.<br>",
+          "text4": "Authenticity of your profile unlikely to be tempered due to its decentralization network.<br>",
           "text5": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus saepe illum, ipsa voluptas animi laborum? Veniam delectus totam, voluptatem maxime!",
           "text6": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores similique itaque possimus hic. Saepe et deleniti fugit qui, odit tenetur?",
           "alias": "spacem/components",
@@ -1122,40 +1122,58 @@
       "components": [
         {
           "_params": {
-            "autoplay": false,
-            "fullScreen": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showBullets": false,
+            "paddingTop": "4",
+            "paddingBottom": "0",
+            "showTitle": true,
+            "showSubtitle": true,
+            "showButtons": false,
+            "showMedia": false,
+            "imageSize": 50,
+            "inverse": false,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1277.jpg",
+            "bgColorRadio": false,
             "bgColor": "#fff",
-            "timeout": 5,
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1277.jpg",
-                "active": true,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
-                "title": "Beyond<br><em>Solution</em>",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "We always aim to serve more. Other than secures all your cloud communication and storage, we also  offer you more than that. With our expertise, we would ensure your organisation will be always in a secured environment and keep in line all the compliance need. <br>",
-                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Purchase</a><a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Learn more</a>",
-                "overlayColor": "#204187"
-              }
-            ]
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#204187",
+            "overlayOpacity": 0.35
           },
-          "articleLayout": false,
-          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left.svg",
-          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right.svg",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "src": "@THEME_PATH@/components/_images/info.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=axMabrSDrI8",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "<em>Beyond</em> Solution",
+          "text": "We always aim to serve more. Other than secures all your cloud communication and storage, we also offer you more than that. With our expertise, we would ensure your organisation will be always in a secured environment and keep in line all the compliance need. <br>",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a>",
           "alias": "spacem/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "slider3",
-          "_anchor": "slider3-22"
+          "_name": "header3",
+          "_anchor": "header3-2x",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            },
+            "H1": {
+              "text-align": "right"
+            }
+          }
         },
         {
           "_params": {
@@ -2216,8 +2234,8 @@
             "iconFont": {
               "class": "mbr-iconfont",
               "linkInNewWindow": false,
-              "name": "target",
-              "family": "et-line",
+              "name": "angel-smiley",
+              "family": "iconsMind",
               "active": true,
               "link": "",
               "size": 0
@@ -2227,8 +2245,8 @@
             "iconFont": {
               "class": "mbr-iconfont",
               "linkInNewWindow": false,
-              "name": "telescope",
-              "family": "et-line",
+              "name": "alien",
+              "family": "iconsMind",
               "active": true,
               "link": "",
               "size": 0
@@ -2283,8 +2301,8 @@
           "title4": "creative compaings",
           "title5": "innovation ideas",
           "title6": "business analysis",
-          "text1": "We are a team that concern about today's world information. Especially when it comes to secures all your files from a single place wherever they are actually stored. It lets you share files and communicate with your customers and colleagues in a truly secure way across cloud service providers.",
-          "text2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt accusantium tenetur tempora asperiores expedita ab a fugit laudantium, pariatur dignissimos.",
+          "text1": "that very concern about your data and information. Especially when it comes to secures all your files that you are to send it via the cloud.&nbsp;",
+          "text2": "that create a platform where you could easily protect your data and information and have your privacy while communication via the internet.&nbsp;",
           "text3": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam, rerum, architecto? Perspiciatis obcaecati voluptas ratione cum, dolorem maxime quidem cumque.",
           "text4": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut, cupiditate, debitis! Laborum maiores autem totam aliquid nemo beatae possimus rem?",
           "text5": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus saepe illum, ipsa voluptas animi laborum? Veniam delectus totam, voluptatem maxime!",
@@ -2450,7 +2468,7 @@
         },
         {
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": 1,
             "showTitle": true,
             "showText": true,

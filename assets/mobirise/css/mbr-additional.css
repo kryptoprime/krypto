@@ -794,6 +794,12 @@ a:hover,
   color: #222!important;
 }
 
+#header3-2x P {
+  text-align: right;
+}
+#header3-2x H1 {
+  text-align: right;
+}
 #menu2-1n .hide-buttons .nav-btn {
   display: none !important;
 }
