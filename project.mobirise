@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Kryptov3",
-    "currentPage": "index.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "spacem",
       "title": "SpaceM",
@@ -37,7 +37,7 @@
     "google-analytics": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
-    "uniqCompNum": 106,
+    "uniqCompNum": 108,
     "versionPublish": "4.8.3",
     "screenshot": "screenshot.png"
   },
@@ -148,6 +148,35 @@
           ],
           "_name": "menu2",
           "_anchor": "menu2-0"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "showTitle": false,
+            "showText": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title": "Text with heading",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium eaque, nesciunt corporis atque eius vero doloremque, dolor voluptas ut voluptates fugit excepturi consequuntur recusandae magni, a nulla architecto quo repudiandae eum molestiae quidem libero odit sint. Recusandae maxime ut illo accusantium aut voluptatibus et quod dicta rerum praesentium alias aspernatur neque magnam reiciendis adipisci nesciunt in debitis maiores iure, mollitia impedit repudiandae quis. Blanditiis laborum explicabo asperiores sint quidem ex ipsam libero, deserunt pariatur eius expedita neque at aliquid voluptate esse unde molestias! Possimus id fuga nostrum dolore quo dolores, eos voluptatem, repellat nulla eligendi facilis deleniti, inventore quae officia.",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "text1",
+          "_anchor": "text1-2y"
         },
         {
           "_params": {
@@ -309,7 +338,7 @@
           "title": "<em>Senses of</em>&nbsp;Assurance",
           "subtitle": "Subtitle",
           "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit quisque elementum volutpat massa ac interdum velit imperdiet vel lacinia massa viverra dolor quis congue pellentesque.",
-          "title1": "Ultimatel Security",
+          "title1": "Ultimate Security",
           "title2": "privacy",
           "title3": "Trustworthy",
           "title4": "Global Validation",
@@ -1555,7 +1584,7 @@
               "loop": false
             }
           },
-          "title": "Stunning<div><span style=\"font-weight: normal;\"><i>All-in-One</i></span></div><div>Platform</div>",
+          "title": "Stunning<br><i style=\"font-size: 100px; background-color: inherit;\"><span style=\"font-weight: normal;\">All-in-One</span></i><i style=\"font-size: 100px; background-color: inherit;\"><span style=\"font-weight: normal;\"><br></span></i>Platform",
           "text": "Full-width intro with parallax background and media on the right side. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum, totam sit! Ut perspiciatis sint minima, a, consequatur maxime minus neque voluptatem laborum distinctio amet. Ea deleniti sed, commodi aperiam! Harum excepturi ipsa temporibus sit, natus illum expedita officiis doloribus a aspernatur",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a>",
           "alias": "spacem/components",
@@ -1569,7 +1598,7 @@
               "font-size": "100px"
             },
             "H1": {
-              "font-size": "100px"
+              "font-size": "72px"
             }
           }
         },
@@ -2354,7 +2383,7 @@
               "loop": false
             }
           },
-          "title": "<em>Created for</em> You",
+          "title": "<span style=\"font-weight: normal;\"><i>Dedicated to</i></span>&nbsp;You",
           "text": "Full-width intro with parallax background and media on the right side. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum, totam sit! Ut perspiciatis sint minima, a, consequatur maxime minus neque voluptatem laborum distinctio amet. Ea deleniti sed, commodi aperiam! Harum excepturi ipsa temporibus sit, natus illum expedita officiis doloribus a aspernatur",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a>",
           "alias": "spacem/components",
@@ -2589,7 +2618,7 @@
             "paddingTop": 2,
             "paddingBottom": 1,
             "showArrows": true,
-            "showBullets": true,
+            "showBullets": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
